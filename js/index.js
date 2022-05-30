@@ -16,6 +16,7 @@ function testa(){
 }
 
 test()
+testa()
 
 //测试回退进度
 
