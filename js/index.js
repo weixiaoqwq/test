@@ -2,7 +2,7 @@
 var index=1
 
 
-var index2=2
+var index2=3
 
 
 function test(){
