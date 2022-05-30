@@ -13,3 +13,5 @@ function test(){
 function testa(){
     console.log("testa")
 }
+
+test()
