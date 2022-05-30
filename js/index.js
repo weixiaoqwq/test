@@ -3,6 +3,7 @@ var index=1
 
 
 var index2=3
+// Language: javascript
 
 
 function test(){
