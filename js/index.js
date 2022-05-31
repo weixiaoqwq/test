@@ -32,3 +32,7 @@ function sum(a,b){
     console.log(a+b)
     return a+b
 }
+
+function testc(){
+    console.log("testc")
+}
