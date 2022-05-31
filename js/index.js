@@ -30,5 +30,5 @@ function testb(){
 //输出a+b的和
 function sum(a,b){
     console.log(a+b)
-    console.log(a+b)
+    return a+b
 }
